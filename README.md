@@ -1,4 +1,8 @@
-## Hi there 👋
+# skills and experience
+
+some VoIP and IP-telephony
+some switching and routing
+now learning git and coding
 
 <!--
 **p24-byte/p24-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
